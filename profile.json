@@ -1,6 +1,6 @@
 {
   "personal_site": "https://rafageist.github.io",
-  "skills" : ["drupal", "phalcon", "jquery", "bootstrap"]
+  "skills" : ["drupal", "phalcon", "jquery", "bootstrap"],
   "cv_url": {
     "en" : "https://rafageist.github.io/downloads/rafageist-cv.en.pdf",
     "es" : "https://rafageist.github.io/downloads/rafageist-cv.es.pdf"
@@ -8,5 +8,14 @@
   "social": {
     "linkedin" : "https://linkedin.com/in/rafageist",
     "twitter" : "https://twitter.com/rafageist"
+  },
+  "blog": {
+    "articles" : [
+      {
+       "file" : "articles/php-is-a-framework.md",
+       "title" : "PHP es, además, un framework",
+       "description" : "Razones por las que considero a PHP un framework para la web, además de ser un lenguaje, plataforma y aplicacion"
+      }
+    ]
   }
 }
