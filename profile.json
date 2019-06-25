@@ -1,0 +1,11 @@
+{
+  "personal_site": "https://rafageist.github.io",
+  "cv_url": {
+    "en" : "https://rafageist.github.io/downloads/rafageist-cv.en.pdf",
+    "es" : "https://rafageist.github.io/downloads/rafageist-cv.es.pdf"
+  },
+  "social": {
+    "linkedin" : "https://linkedin.com/in/rafageist",
+    "twitter" : "https://twitter.com/rafageist"
+  }
+}
