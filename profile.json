@@ -13,6 +13,7 @@
     "articles" : [
       {
        "file" : "articles/php-is-a-framework.md",
+       "path" : "php-is-a-web-framework",
        "title" : "PHP es, además, un framework",
        "description" : "Razones por las que considero a PHP un framework para la web, además de ser un lenguaje, plataforma y aplicacion"
       }
