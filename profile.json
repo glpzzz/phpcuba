@@ -1,5 +1,6 @@
 {
   "personal_site": "https://rafageist.github.io",
+  "skills" : ["drupal", "phalcon", "jquery", "bootstrap"]
   "cv_url": {
     "en" : "https://rafageist.github.io/downloads/rafageist-cv.en.pdf",
     "es" : "https://rafageist.github.io/downloads/rafageist-cv.es.pdf"
